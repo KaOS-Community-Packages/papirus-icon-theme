@@ -1,0 +1,2 @@
+# papirus-icon-theme
+Papirus is a free and open source SVG icon theme for Linux
