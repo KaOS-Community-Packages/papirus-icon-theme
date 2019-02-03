@@ -1,5 +1,5 @@
 pkgname=papirus-icon-theme
-pkgver=20190106
+pkgver=20190203
 pkgrel=1
 pkgdesc="Papirus icon theme"
 arch=('x86_64')
