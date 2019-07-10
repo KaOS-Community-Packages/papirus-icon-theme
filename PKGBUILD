@@ -1,5 +1,5 @@
 pkgname=papirus-icon-theme
-pkgver=20190701
+pkgver=20190708
 pkgrel=1
 pkgdesc="Papirus icon theme"
 arch=('x86_64')
@@ -7,7 +7,7 @@ url="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme"
 license=("LGPL3")
 depends=('gtk-update-icon-cache')
 source=("https://github.com/PapirusDevelopmentTeam/$pkgname/archive/$pkgver.tar.gz")
-md5sums=('efabb51ca8da7899497abe6f201220fc')
+md5sums=('0e3022eafe8d9fdaa447d7f5ef090157')
 
 package() {
   cd $pkgname-$pkgver
